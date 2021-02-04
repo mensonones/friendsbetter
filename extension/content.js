@@ -1,0 +1,1 @@
+document.body.innerHTML = document.body.innerHTML.replace(new RegExp("(how i met your mother|How I Met Your Mother|HIMYM|himym)", "g"), "Friends is Better");
